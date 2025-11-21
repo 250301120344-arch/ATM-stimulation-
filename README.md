@@ -71,7 +71,7 @@ You may modify and use it freely.
 
 # 👤 Author
 
-Your Name
+BISWAJIT MOHAPATRA 
 1st Semester – C Programming Project
 
 
